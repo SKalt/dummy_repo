@@ -1,0 +1,3 @@
+[submodule "submod"]
+	path = submod
+	url = git@github.com:SKalt/dummy_repo.git
